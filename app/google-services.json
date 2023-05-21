@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694220554185",
+    "project_id": "fixie-bike-30400",
+    "storage_bucket": "fixie-bike-30400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694220554185:android:fc7072c0b5a54e40027218",
+        "android_client_info": {
+          "package_name": "com.android.fixiebike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694220554185-eespa3m2lm39v6nf79t4rvb3c2l77jqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDerVoOwwyH9LtovrjgfKRTmKYDwyzC5Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694220554185-eespa3m2lm39v6nf79t4rvb3c2l77jqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
